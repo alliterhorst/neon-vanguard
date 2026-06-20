@@ -1,6 +1,6 @@
 # 🎮 NEON VANGUARD
 
-**Um shoot'em-up retrô 16-bit que roda no navegador — construído orquestrando uma equipe de agentes de IA.**
+**Um shoot'em-up retrô 16-bit que roda no navegador, criado ao orquestrar uma equipe de agentes de IA.**
 
 ![Phaser](https://img.shields.io/badge/Phaser-3-8e44ad)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES%20Modules-f1c40f)
@@ -15,7 +15,7 @@
 
 ## Sobre
 
-NEON VANGUARD é um jogo de nave vertical, com estética neon 16-bit, que roda direto no navegador: você arrasta a nave, ela atira sozinha, coleta power-ups, enfrenta inimigos variados e um boss com fases.
+NEON VANGUARD é um jogo de nave vertical, com estética neon 16-bit, que roda direto no navegador: você arrasta a nave, ela atira sozinha, coleta power-ups, enfrenta inimigos variados e um boss com diferentes padrões de ataque.
 
 Ele é, acima de tudo, um **experimento**: a primeira versão jogável (que chamo de **Fase Zero**) de um projeto que investiga como desenvolver jogos de navegador **orquestrando agentes de IA** — cada um com um papel especializado, coordenados por um agente orquestrador.
 
@@ -67,4 +67,4 @@ Feito por **Álli Terhorst**.
 
 ## Licença
 
-Distribuído sob a licença [MIT](LICENSE).
+Distribuído sob a licença
